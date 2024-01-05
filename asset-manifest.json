@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pg-vala/static/css/main.97b3217e.css",
-    "main.js": "/pg-vala/static/js/main.bc8d31b0.js",
+    "main.css": "/pg-vala/static/css/main.f85d8af6.css",
+    "main.js": "/pg-vala/static/js/main.c2144784.js",
     "static/js/787.41cda596.chunk.js": "/pg-vala/static/js/787.41cda596.chunk.js",
     "static/media/logo-3.png": "/pg-vala/static/media/logo-3.efc5576e10af017a9db3.png",
     "index.html": "/pg-vala/index.html",
-    "main.97b3217e.css.map": "/pg-vala/static/css/main.97b3217e.css.map",
-    "main.bc8d31b0.js.map": "/pg-vala/static/js/main.bc8d31b0.js.map",
+    "main.f85d8af6.css.map": "/pg-vala/static/css/main.f85d8af6.css.map",
+    "main.c2144784.js.map": "/pg-vala/static/js/main.c2144784.js.map",
     "787.41cda596.chunk.js.map": "/pg-vala/static/js/787.41cda596.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97b3217e.css",
-    "static/js/main.bc8d31b0.js"
+    "static/css/main.f85d8af6.css",
+    "static/js/main.c2144784.js"
   ]
 }
