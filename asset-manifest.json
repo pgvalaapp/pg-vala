@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/pg-vala/static/css/main.0742ebc8.css",
-    "main.js": "/pg-vala/static/js/main.8d176978.js",
-    "static/js/787.41cda596.chunk.js": "/pg-vala/static/js/787.41cda596.chunk.js",
-    "index.html": "/pg-vala/index.html",
-    "main.0742ebc8.css.map": "/pg-vala/static/css/main.0742ebc8.css.map",
-    "main.8d176978.js.map": "/pg-vala/static/js/main.8d176978.js.map",
-    "787.41cda596.chunk.js.map": "/pg-vala/static/js/787.41cda596.chunk.js.map"
+    "main.css": "/static/css/main.0742ebc8.css",
+    "main.js": "/static/js/main.8d176978.js",
+    "static/js/787.41cda596.chunk.js": "/static/js/787.41cda596.chunk.js",
+    "index.html": "/index.html",
+    "main.0742ebc8.css.map": "/static/css/main.0742ebc8.css.map",
+    "main.8d176978.js.map": "/static/js/main.8d176978.js.map",
+    "787.41cda596.chunk.js.map": "/static/js/787.41cda596.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0742ebc8.css",
